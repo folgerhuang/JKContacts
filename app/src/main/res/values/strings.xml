@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ji Ke Contacts</string>
+    <string name="setting">Setting</string>
+    <string name="btnAddUser">Add New People</string>
+    <string name="tvName">Name：</string>
+    <string name="tvPhone">Tel：</string>
+    <string name="tvTitle">Add New Contacts</string>
+    <string name="btnSendMsg">Send Message</string>
+    <string name="btnCall">Make a Call</string>
+    <string name="tvCallorMsgTitle">Choose Operation Below：</string>
+    <string name="btnCommit">Commit</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="requirePermission">Require such permission to continue!</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">极客通讯录</string>
+    <string name="setting">设置</string>
+    <string name="btnAddUser">添加联系人</string>
+    <string name="tvName">姓名：</string>
+    <string name="tvPhone">电话：</string>
+    <string name="tvTitle">添加联系人</string>
+    <string name="btnSendMsg">发送短信</string>
+    <string name="btnCall">打电话</string>
+    <string name="tvCallorMsgTitle">请选择操作：</string>
+    <string name="btnCommit">确定</string>
+    <string name="btnCancel">取消</string>
+    <string name="requirePermission">app需要开启权限才能使用此功能</string>
+
+</resources>
